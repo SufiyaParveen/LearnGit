@@ -1,2 +1,0 @@
-This is second commit 
-Changes to second file.
